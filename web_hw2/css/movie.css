@@ -1,0 +1,134 @@
+body {
+	background-image: url(http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/background.png?version=1&modificationDate=1268896312000);
+	font-size: 8pt;
+	font-family: Verdana, Tahoma, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.banner {
+	background-image: url("http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/bannerbackground.png?version=1&modificationDate=1268896312000");
+	background-repeat: repeat-x;
+	height: 50px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 24pt;
+	font-weight: bold;
+	font-family: Verdana, Tahoma, sans-serif;
+	text-align: center;
+}
+
+.overview {
+	width: 800px;
+	border: 4px solid gray;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.left-list {
+	width: 550px;
+}
+
+.left-head {
+	background-image: url("http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/rottenbackground.png?version=1&modificationDate=1268896385000");
+	background-repeat: repeat-x;
+	height: 83px;
+	font-size: 8pt;
+	color: white;
+	margin-bottom: 11px;
+	text-align: left;
+}
+
+.left-head img {
+	vertical-align: bottom;
+}
+
+.font {
+	font-weight: bold;
+	font-size: 48pt;
+	color: red;
+}
+
+.right-list {
+	width: 250px;
+	float: right;
+}
+
+.right-list img {
+	vertical-align: bottom;
+}
+
+.right-info {
+	padding: 1em 10px 1em 10px;
+	font-family: Arial, sans-serif;
+	background-color: #A2B964;
+	font-size: 8pt;
+}
+
+.right-info dl {
+	margin: 0;
+}
+
+.right-info dt {
+	text-align: left;
+	font-weight: bold;
+	margin-top: 1em;
+}
+
+#special-dt {
+	margin: 0;
+}
+
+.review-left, .review-right {
+	width: 47%;
+	margin-left: 2%;
+	float: left;
+}
+
+.review {
+	border: 2px solid gray;
+	background-color: #E1D697;
+	font-size: 8pt;
+	font-weight: bold;
+	padding: 8px;
+}
+
+.review img {
+	float: left;
+	margin-right: 5px;
+}
+
+.review p{
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: left;
+}
+
+.reviewer {
+	margin-bottom: 3em;
+}
+
+.reviewer img {
+	float: left;
+	margin-right: 5px;
+}
+
+.reviewer p {
+	font-style: italic;
+}
+
+.foot {
+	background-color: #A2B964;
+	text-align: center;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	clear: both;
+}
+
+.validator {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
