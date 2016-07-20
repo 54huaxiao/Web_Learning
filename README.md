@@ -11,3 +11,6 @@
 * hw3
   - css animation
   - a transition button
+* hw4
+  - basic js
+  - a web calculator
